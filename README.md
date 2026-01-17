@@ -1,7 +1,5 @@
-
-TO-DO LIST (GÖREV YÖNETİM) UYGULAMASI
+***TO-DO LIST (GÖREV YÖNETİM) UYGULAMASI***
 TNC Group - Python ile Temel Programlama Projesi
-Proje Yılı: 2015
 
 PROJE AÇIKLAMASI
 Bu uygulama, kullanıcıların görevlerini yönetmelerine olanak tanıyan basit bir To-Do List (Görev Yönetim) uygulamasıdır. Uygulama, Python programlama dili kullanılarak geliştirilmiştir ve temel programlama kavramlarını içermektedir.
